@@ -102,5 +102,5 @@
 
 ## Authors
 
-- ShaneKolkoto 👾
 - Simamkele January 👨‍💻
+- ShaneKolkoto 👾
