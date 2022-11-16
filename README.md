@@ -103,4 +103,4 @@
 ## Authors
 
 - Simamkele January 👨‍💻
-- ShaneKolkoto 👾
+- Shane Kolkoto [@ShaneKolkoto](https://github.com/ShaneKolkoto) 👾
